@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+pillow
+pillow-heif
+insightface
+onnxruntime
+python-multipart
